@@ -13,16 +13,20 @@ Implementation
 I am currently the sole graduate student in the enhanced heat transfer laboratory currently working on the pool boiling project. Because of this, I will be solely responsible for the implementation of the data management plan. However, my advisor, Dr. Gess will also be partially responsible for making sure I am carrying out the data management as he would like to continue experiments with this enclosure after I have graduated. 
 
 Responsibilities
+
 I will be solely responsible for all data collection, storage, and analysis. Because of this I will be solely responsible for creating and following the data management plan. This includes keeping an up-to-date well organized box drive, which will include all meta data that I create as well as actual project data, including but not limited excel files, 3D model files, and folders filled with .JPG picture files. 
 
 Contingencies
+
 As the sole contributor to this project, if I were to leave the project, not only would there be no one to experiment and collect data, but also any data that I have not properly stored in the data management plan could be lost forever. To prevent this all data and meta-data is stored in an online cloud service as it is generated. This will allow all relevant project information to be accessible even if my leaving the project was abrupt and unexpected. 
 
 
 Data Sensitivity
+
 The data created, collected and analyzed during this project is the result of a corporate grant. However, the lab was given the grant as a gift, allowing Dr. Gess to choose the areas he would like to invest in. Due to this inherent freedom, I have not been required to sign a non-disclosure agreement and the corporate partner has not explicitly told us that data collected with this grant is confidential. So at the moment the data collected in this project is relatively insensitive, however this could be subject to change depending on the corporate partner’s view of the work. 
 
 Data Storage
+
 As per lab standard, all project information, data and meta-data included, is uploaded to a Box drive shared between Dr. Gess and I. This box file is managed by the lab so in the event Dr. Gess and myself had to leave the information, it could still be accessed and managed. Within this drive will be several types of meta-data, including the experimental code needed to perform experiments, this a LabView VI script with file extension .vi, as well as code for analyzing the collected data, which is a MatLab script with file extension .m. Beyond just code, the meta-data folder also contains experimental procedures, process diagrams of the test bed, both saved as PDF files. This folder will also contain the 3-D files of any component that needs modification and replacement, these files are generated with solid works and saved as a .STEP to ensure the files can be opened with any modeling software. As for actual data in the project, it will be separated into 2 sub-folders, one for pre and post analysis. That is one folder will be entirely raw spreadsheet data with excel file extension .xlsx which is the output of the labview scripts, while the other will be the analyzed data, still in excel .xlsx format, which is the output of the MatLab script. 
 
 Backup Plan
